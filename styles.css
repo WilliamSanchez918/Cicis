@@ -1,0 +1,27 @@
+.carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.logo {
+    height: 25px;
+    width: 25px;
+    background-image: url('imgs/CE_Logo.png')
+}
+
+.img1 {
+    background-image: url('imgs/Blox.jpg')
+}
+
+.img2 {
+    background-image: url('imgs/Redem03Cropped.jpg')
+}
+
+.img3 {
+    background-image: url('imgs/imagejpeg_0_12.jpg')
+}
