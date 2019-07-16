@@ -1,5 +1,5 @@
 .carousel-item {
-    height: 100vh;
+    height: 50vh;
     min-height: 350px;
     background: no-repeat center center scroll;
     -webkit-background-size: cover;
@@ -15,13 +15,13 @@
 }
 
 .img1 {
-    background-image: url('imgs/Blox.jpg')
+    background-image: url('imgs/Panarama.jpg')
 }
 
 .img2 {
-    background-image: url('imgs/Redem03Cropped.jpg')
+    background-image: url('imgs/Blox.jpg')
 }
 
 .img3 {
-    background-image: url('imgs/imagejpeg_0_12.jpg')
+    background-image: url('imgs/20190710_102125.jpg')
 }
