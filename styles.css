@@ -8,6 +8,11 @@
     background-size: cover;
 }
 
+.about-video {
+    height: 75vh;
+    min-height: 250px;
+}
+
 .logo {
     height: 25px;
     width: 25px;
