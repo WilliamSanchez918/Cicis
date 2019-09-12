@@ -9,12 +9,15 @@
         background-size: cover;
     }
     .img1 {
-        background-image: url('imgs/PanaramaCropped.jpg');
+        background-image: url('imgs/20190524_173607_HDR.jpg');
     }
     .img2 {
         background-image: url('imgs/Blox.jpg')
     }
     .img3 {
-        background-image: url('imgs/20190710_102125.jpg')
+        background-image: url('imgs/IMG_20190910_124944702.jpg')
+    }
+    .img4 {
+        background-image: url('imgs/20190710_121635-min.jpg')
     }
 }
